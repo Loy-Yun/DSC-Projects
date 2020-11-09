@@ -1,0 +1,14 @@
+body {
+    background-color: mediumpurple;
+    text-align: center;
+    padding: 10%;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+}
+
+.list-group {border:2px solid purple; width:300px; height:70px; display: inline-block; vertical-align: center; padding-bottom: 10px; margin-bottom: 5px}
+
